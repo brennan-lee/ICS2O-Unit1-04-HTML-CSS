@@ -8,8 +8,8 @@ body {
 }
 
 h1 {
-  background-color: rgb(255, 38, 0);
-  color: hsl(308, 50%, 47%);
+  background-color: rgb(255 38 0);
+  color: hsl(308 50% 47%);
   padding: 40px;
   text-align: center;
 }
